@@ -1,16 +1,87 @@
-## Hi there 👋
 
-<!--
-**JoeIhimbazwe/JoeIhimbazwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👾 Developer & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a developer who builds, breaks, and rebuilds systems until they make sense.
+Obsessed with clean logic, scalable design, and creating technology that solves real problems — not just pretty demos.
+
+I learn fast, adapt fast, and push myself into uncomfortable areas where real growth happens.
+My work lives in the space between software engineering, AI, and digital systems.
+
+
+---
+
+🔥 What Drives Me
+
+🚀 Turning ideas into functional, real systems
+
+🧩 Writing code that’s clean, structured, and intentional
+
+🧠 Understanding how and why algorithms work
+
+⚙️ Building tools that simplify life
+
+📈 Growing every single day, no shortcuts
+
+
+
+---
+
+🧠 Areas of Interest
+
+🤖 Artificial Intelligence
+
+💻 Software Engineering
+
+🌐 Web Development
+
+📚 Algorithms & Data Structures
+
+⚡ Automation & Scripting
+
+🏗️ System Design
+
+🎯 Problem Solving & Optimization
+
+
+
+---
+
+🛠️ Tech Stack
+
+Languages:
+🟦 Python • 🟨 JavaScript • 🔵 C • 🟣 SQL • 🟧 HTML • 🟩 CSS
+
+Tools & Technologies:
+⚙️ Git
+🐙 GitHub
+🖥️ VS Code
+💾 MySQL & PostgreSQL
+🐧 Linux
+🔗 APIs
+
+Abilities:
+🛠️ Debugging
+🎨 Design Thinking
+🧠 Logical Reasoning
+🏗️ System Building
+
+
+---
+
+🌍 Mindset
+
+I don’t rush greatness.
+I build it — line by line, project by project, lesson by lesson.
+Every day is an upgrade.
+
+
+---
+
+✨ Motto
+
+“Code. Improve. Repeat.” 🔄
+
+
+---
+
