@@ -1,9 +1,15 @@
 
 
-👾 Developer & AI Enthusiast
+
+
+
+
                        # Hi, I'm Jeff 👋
 
-🌐 My website: [joeihimbazwe.github.io](https://joeihimbazwe.github.io)
+
+                       
+
+Meet me here 🌐 : [joeihimbazwe.github.io](https://joeihimbazwe.github.io)
 
 I learn fast, adapt fast, and push myself into uncomfortable areas where real growth happens.
 My work lives in the space between software engineering, AI, and digital systems.
