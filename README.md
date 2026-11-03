@@ -1,9 +1,9 @@
 
 
 👾 Developer & AI Enthusiast
+                       # Hi, I'm Jeff 👋
 
-I’m a developer who builds, breaks, and rebuilds systems until they make sense.
-Obsessed with clean logic, scalable design, and creating technology that solves real problems — not just pretty demos.
+🌐 My website: [joeihimbazwe.github.io](https://joeihimbazwe.github.io)
 
 I learn fast, adapt fast, and push myself into uncomfortable areas where real growth happens.
 My work lives in the space between software engineering, AI, and digital systems.
